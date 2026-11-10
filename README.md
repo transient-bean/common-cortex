@@ -5,6 +5,7 @@ Open-source AI raised by the people who run it. The project is Common Cortex; th
 ## Basic features
 
 - Local chat with the Cortex on your own machine. Private, works offline.
+- Regional architecture: the Cortex is built from named brain regions (sensory cortex, thalamus, association cortex, hippocampus, insula, Broca) that train, fork, and merge semi-independently, like the community that raises them.
 - Background trainer: your PC trains your fork of the Cortex in the background, inside limits you set, and steps aside when you are using the machine.
 - Forks: your personal version of the Cortex, stored as a small add-on file, trained on a diet you choose.
 - The Pool: where forks are submitted for checking.
