@@ -25,7 +25,7 @@ Open-source AI raised by the people who run it. The project is Common Cortex; th
 
 ## Roadmap
 
-1. Spark: a tiny from-scratch model, a trainer, and local chat, on one PC.
+1. Progenitor: a tiny from-scratch model, a trainer, and local chat, on one PC.
 2. The Exam (v0) and the fork submission format.
 3. The full loop on one PC: forks, Pool, Exam, merges, family tree.
 4. World view and the first verification quest.
